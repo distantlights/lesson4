@@ -1,0 +1,62 @@
+img{
+    width: 100%;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+*{
+    padding: 0 ;
+    margin: 0;
+}
+*{
+    box-sizing: border-box;
+}
+.navigation{
+    padding: 73px 100px;
+    background-color: #FFFFFF;
+}
+.logo img{
+    height: 100px;
+    width: auto;
+}
+.navigation-links li a{
+    color: #707070;
+}
+.main-photo{
+    margin-top: calc(207px-70px);
+    margin-left: 140px;
+    margin-right: 140px;
+}
+.footlogo img{
+    height: 100px;
+    width: auto;
+}
+.foot{
+    background-color: #2E2E2E;
+    color: #FFFFFF;
+}
+.footsocialweb img{
+    width: 44px;
+    height: 44px;
+}
+
+.container img{
+    width: 483px;
+    height: 282px;
+    color: #707070;
+}
+ 
+ .containerart{
+    color: #707070;
+ }
+ .container{
+    color: #707070;
+    margin-top: 20px;
+
+ }
+ .popular-articles{
+    color: #707070;
+ }
