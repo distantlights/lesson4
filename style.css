@@ -10,8 +10,6 @@ a{
 *{
     padding: 0 ;
     margin: 0;
-}
-*{
     box-sizing: border-box;
 }
 .navigation{
@@ -26,7 +24,7 @@ a{
     color: #707070;
 }
 .main-photo{
-    margin-top: calc(207px-70px);
+    margin-top: calc(207px - 70px);
     margin-left: 140px;
     margin-right: 140px;
 }
@@ -46,7 +44,6 @@ a{
 .container img{
     width: 483px;
     height: 282px;
-    color: #707070;
 }
  
  .containerart{
@@ -60,3 +57,20 @@ a{
  .popular-articles{
     color: #707070;
  }
+ article {
+    margin-top: 40px;
+    margin-left: 139px;
+}
+.popular-articles h2 {
+    margin-bottom: 40px;
+    margin-left: 139px;
+    margin-top: 40px;
+}
+.popular-articles button {
+    margin-top: 40px;
+    margin-left: 139px;
+}
+.lastadded h2 {
+    margin-bottom: 40px;
+    margin-left: 139px;
+}
